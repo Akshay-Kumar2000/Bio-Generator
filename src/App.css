@@ -1,0 +1,116 @@
+.App {
+  padding: 5px 20px;
+  display: flex;
+  gap: 10px;
+}
+body{
+  background-color: #f3fff8;
+}
+h1{
+  text-align: center;
+  background-color: #2223;
+  height: 50px;
+}
+h2{
+  text-align: center;
+  background-color: #2223;
+  height: 40px;
+}
+.fieldset{
+  display: flex;
+  gap: 10px;
+  background-color: #2223;
+  margin-bottom: 20px;
+  border: transparent;
+}
+.fieldset1{   
+  margin-bottom: 20px;
+  background-color: #2223;  
+  border: transparent;
+}
+
+.button{
+  margin-left: 10px;
+  min-width: 100px;
+  height: 25px;
+  margin-top: 15px;
+}
+.select{  
+  min-width: 100px;
+  height: 25px;  
+  margin-top: 15px;
+}
+.sec{
+  display: flex;
+  gap: 10px;
+}
+
+.text{
+  width: 200px;
+  height: 20px; 
+  margin-top: 15px;
+}
+.text1{
+  width: 200px;
+  height: 20px; 
+  margin-top: 17px;
+}
+.result{
+  min-width: 140px;
+  min-width: 200px; 
+  padding: 10px;
+  background-color: #2223;  
+  border: transparent;
+}
+
+.button1{
+  margin-left: 10px;
+  background-color: #db9b;
+  border: 0.5px solid;
+  min-width: 80px;
+  min-height: 20px;
+}
+.button2{
+  margin-left: 10px;
+  background-color: #adab;
+  border: 0.5px solid;
+  min-width: 80px;
+  min-height: 20px;
+}
+.button3{
+  margin-left: 10px;
+  background-color: #aadb;
+  border: 0.5px solid;
+  min-width: 80px;
+  min-height: 20px;
+}
+.button4{
+  margin-left: 10px;
+  background-color: #eabb;
+  border: 0.5px solid;
+  min-width: 80px;
+  min-height: 20px;
+}
+.button5{
+  margin-left: 10px;
+  background-color: #c9cb;
+  border: 0.5px solid;
+  min-width: 80px;
+  min-height: 20px;
+}
+.button6{
+  margin-left: 10px;
+  background-color: #ddd9;
+  border: 0.5px solid;
+  min-width: 80px;
+  min-height: 20px;
+}
+
+.textarea{
+  width: 500px;
+  height: 80px;
+}
+.cbox{
+  display: flex;
+  gap: 10px;
+}
